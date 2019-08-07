@@ -5,7 +5,7 @@ def find_sort(s):
     for loop in kata:
         a.append(len(loop))
     a.sort()
-    return print(panjang[0])
+    return print(a[0])
 find_sort("many people get up early in the morning")
 find_sort("every office would getting newest monitor")
 find_sort("create new file after this morning")
